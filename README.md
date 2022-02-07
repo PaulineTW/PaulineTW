@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Pauline</h1>
 <h3 align="center">A passionate entrepreneur currently taken up coding to bring ideas to life and to design meaningful products that deliver real value to the user</h3>
 
-- 🔭 I’m currently learning Web Development at [Le Wagon](https://www.lewagon.com/web-development-course/part-time)
+- 🔭 I’m graduate from Full-stack Web Development at [Le Wagon](https://www.lewagon.com/web-development-course/part-time)
+
+- I'm currently working at Cogini as a full-stack software developer
 
 - 🌱 I’m currently learning **HTML, CSS, Bootstrap, JavaScript ES2015, SQL, Heroku, Ruby on Rails and more...**
 
