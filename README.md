@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pauline</h1>
-<h3 align="center">A passionate entrepreneur currently taken up coding to bring ideas to life and to design meaningful products that deliver real value to the user</h3>
+<h3 align="center">A passionate entrepreneurand Full-Stack Developer working in Taipei, Taiwan.</h3>
 
 - 🔭 I’m graduate from Full-stack Web Development at [Le Wagon](https://www.lewagon.com/web-development-course/part-time)
 
