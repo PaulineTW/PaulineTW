@@ -3,7 +3,7 @@
 
 - 🔭 I’m graduate from Full-stack Web Development at [Le Wagon](https://www.lewagon.com/web-development-course/part-time)
 
-- I'm currently working at Cogini as a full-stack software developer
+- ⌨️ I'm currently working at Cogini as a full-stack software developer
 
 - 🌱 I’m currently learning **HTML, CSS, Bootstrap, JavaScript ES2015, SQL, Heroku, Ruby on Rails and more...**
 
