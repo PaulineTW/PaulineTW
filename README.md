@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Pauline</h1>
 <h3 align="center">A passionate entrepreneur and Full-Stack Developer working in Taipei, Taiwan.</h3>
 
+Check out my [portfolio](https://www.paulinerouger.com/)
+
 - 🔭 I’m graduate from Full-stack Web Development at [Le Wagon](https://www.lewagon.com/web-development-course/part-time)
 
 - ⌨️ I'm currently working at [Cogini](https://www.cogini.com/) as a full-stack software developer
