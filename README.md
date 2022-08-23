@@ -7,7 +7,7 @@ Check out my [portfolio](https://www.paulinerouger.com/)
 
 - ⌨️ I'm currently working at [Cogini](https://www.cogini.com/) as a full-stack software developer
 
-- 🌱 I’m currently learning **HTML, CSS, Bootstrap, JavaScript ES2015, SQL, Heroku, Ruby on Rails and more...**
+- 🌱 **HTML, CSS, Bootstrap, JavaScript ES2015, SQL, Heroku, Ruby on Rails and more...**
 
 - 📫 How to reach me **paulinerouge@hotmail.com**
 
